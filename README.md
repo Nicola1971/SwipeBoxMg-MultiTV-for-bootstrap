@@ -17,11 +17,11 @@ https://github.com/Nicola1971/SwipeBoxMg-MultiTV
 
 * 3) Edit your default template:
 
-* Add { {swipeboxmg-css} } inside the head tag
+* Add ```{{swipeboxmg-css}}``` inside the head tag
 
-* Add { {swipeboxmg-js} } before the closing body tag
+* Add ```{{swipeboxmg-js}}``` before the closing body tag
 
-* Add [ [multiTV? &tvName=`swipeboxmgboot` &display=`all`] ] where you want to display the Gallery
+* Add ```[[multiTV? &tvName=`swipeboxmgboot` &display=`all`]]``` where you want to display the Gallery
 
 * 4) Edit a resource and use the multiTV to add images to your bootstrap gallery
 
