@@ -1,7 +1,7 @@
 SwipeBoxMg-MultiTV-for-bootstrap
 ================================
 
-Swipebox mini gallery Multi-tv for Bootstrap
+MODx Evolution Swipebox mini gallery Multi-tv for Bootstrap themes
 
 Swipebox mini gallery Multi-tv for MODx Evolution modified for bootstrap
 
