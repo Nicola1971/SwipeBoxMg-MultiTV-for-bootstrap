@@ -3,15 +3,13 @@ SwipeBoxMg-MultiTV-for-bootstrap
 
 MODx Evolution Swipebox mini gallery Multi-tv for Bootstrap themes
 
-Swipebox mini gallery Multi-tv for MODx Evolution modified for bootstrap
-
-https://github.com/Nicola1971/SwipeBoxMg-MultiTV
+based on: https://github.com/Nicola1971/SwipeBoxMg-MultiTV
 
 
 
 ## Instructions
 
-* 1) Install with Evolution Package Manager
+* 1) Install with Evolution Package Manager or store module
 
 * 2) Go to Template Variables > swipeboxmgboot> Template Access > Select your default template
 
