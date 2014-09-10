@@ -18,7 +18,7 @@
 <script type="text/javascript">
 $(function($) {
 
-	$( '.swipebox' ).swipebox({
+	$( '.thumbnail' ).swipebox({
 useCSS : true, // false will force the use of jQuery for animations
 initialIndexOnArray: 0, // which image index to init when a array is passed
 hideBarsOnMobile : true, // false will show the caption and navbar on mobile devices
@@ -27,5 +27,5 @@ videoMaxWidth : 1140, // videos max width
 beforeOpen: function(){} , // called before opening
 afterClose: function(){} // called after closing
 });
-} )( jQuery );
+})( jQuery );
 </script>
