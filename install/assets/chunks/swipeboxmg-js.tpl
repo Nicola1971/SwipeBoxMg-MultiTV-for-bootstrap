@@ -18,7 +18,7 @@
 <script type="text/javascript">
 $(function($) {
 
-	$( '.thumbnail' ).swipebox({
+	$( '.zoomthumbnail' ).swipebox({
 useCSS : true, // false will force the use of jQuery for animations
 initialIndexOnArray: 0, // which image index to init when a array is passed
 hideBarsOnMobile : true, // false will show the caption and navbar on mobile devices
